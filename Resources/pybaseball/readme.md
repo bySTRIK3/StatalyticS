@@ -1,3 +1,8 @@
+# StatalyticS – Fantasy Baseball Analytics
+
+This repo captures league and positional stats for fantasy baseball models.
+
+
 # StatalyticS – League Totals Engine
 
 This repo extracts league-wide and position-based statistical outputs for fantasy baseball analytics.
